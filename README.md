@@ -1,3 +1,9 @@
+| thành viên       | MSV          | 
+| ------------- |:-------------:| 
+| Lê Nguyên Vũ      | 22022544 | 
+| Nguyễn Trọng Khánh      | 22022603     |   
+| Chu Thân Nhất | 22022578      |    
+
 # YouTube Data Analysis
 It analyse YouTube data and gives most popular genres in US on YouTube based on views.
 
